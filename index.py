@@ -249,3 +249,4 @@ Commit #247 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #248 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #249 | Meme: Deleting code is better than writing code.
 Commit #250 | Meme: There's no place like 127.0.0.1
+Commit #251 | Meme: Why do Java developers wear glasses? Because they don't C#.
