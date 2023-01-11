@@ -780,3 +780,4 @@ Commit #778 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #779 | Meme: Deleting code is better than writing code.
 Commit #780 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #781 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #782 | Meme: Why do Java developers wear glasses? Because they don't C#.
