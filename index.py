@@ -139,3 +139,4 @@ Commit #137 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #138 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #139 | Meme: It's not a bug, it's an undocumented feature.
 Commit #140 | Meme: Real programmers count from 0.
+Commit #141 | Meme: It's not a bug, it's an undocumented feature.
