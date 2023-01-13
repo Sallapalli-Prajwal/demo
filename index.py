@@ -850,3 +850,4 @@ Commit #848 | Meme: Deleting code is better than writing code.
 Commit #849 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #850 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #851 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #852 | Meme: In case of fire: git commit, git push, leave building.
