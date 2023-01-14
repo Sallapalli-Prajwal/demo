@@ -193,3 +193,4 @@ Commit #191 | Meme: Real programmers count from 0.
 Commit #192 | Meme: Real programmers count from 0.
 Commit #193 | Meme: Deleting code is better than writing code.
 Commit #194 | Meme: Real programmers count from 0.
+Commit #195 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
