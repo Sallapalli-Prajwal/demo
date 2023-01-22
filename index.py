@@ -95,3 +95,4 @@ Commit #93 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #94 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #95 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #96 | Meme: Deleting code is better than writing code.
+Commit #97 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
