@@ -704,3 +704,4 @@ Commit #702 | Meme: Deleting code is better than writing code.
 Commit #703 | Meme: It's not a bug, it's an undocumented feature.
 Commit #704 | Meme: It's not a bug, it's an undocumented feature.
 Commit #705 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #706 | Meme: To understand recursion, you must first understand recursion.
