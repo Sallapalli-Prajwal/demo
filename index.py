@@ -740,3 +740,4 @@ Commit #738 | Meme: There's no place like 127.0.0.1
 Commit #739 | Meme: It's not a bug, it's an undocumented feature.
 Commit #740 | Meme: It's not a bug, it's an undocumented feature.
 Commit #741 | Meme: It's not a bug, it's an undocumented feature.
+Commit #742 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
