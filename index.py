@@ -135,3 +135,4 @@ Commit #133 | Meme: There's no place like 127.0.0.1
 Commit #134 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #135 | Meme: It's not a bug, it's an undocumented feature.
 Commit #136 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #137 | Meme: Hide and seek champion since 1958: ';' in C/C++
