@@ -99,3 +99,4 @@ Commit #97 | Meme: Software and cathedrals are much the same – first we build 
 Commit #98 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #99 | Meme: Deleting code is better than writing code.
 Commit #100 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #101 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
