@@ -597,3 +597,4 @@ Commit #595 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #596 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #597 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #598 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #599 | Meme: There's no place like 127.0.0.1
