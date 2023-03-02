@@ -8,3 +8,4 @@ Commit #6 | Meme: 99 little bugs in the code. Take one down, patch it around. 12
 Commit #7 | Meme: It's not a bug, it's an undocumented feature.
 Commit #8 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #9 | Meme: Real programmers count from 0.
+Commit #10 | Meme: Hide and seek champion since 1958: ';' in C/C++
