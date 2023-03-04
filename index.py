@@ -286,3 +286,4 @@ Commit #284 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #285 | Meme: In case of fire: git commit, git push, leave building.
 Commit #286 | Meme: In case of fire: git commit, git push, leave building.
 Commit #287 | Meme: In case of fire: git commit, git push, leave building.
+Commit #288 | Meme: Why do Java developers wear glasses? Because they don't C#.
