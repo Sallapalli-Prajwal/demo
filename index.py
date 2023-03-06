@@ -961,3 +961,4 @@ Commit #959 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #960 | Meme: Real programmers count from 0.
 Commit #961 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #962 | Meme: It's not a bug, it's an undocumented feature.
+Commit #963 | Meme: To understand recursion, you must first understand recursion.
