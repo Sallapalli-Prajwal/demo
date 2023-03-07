@@ -656,3 +656,4 @@ Commit #654 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #655 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #656 | Meme: It's not a bug, it's an undocumented feature.
 Commit #657 | Meme: Deleting code is better than writing code.
+Commit #658 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
