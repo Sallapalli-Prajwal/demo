@@ -477,3 +477,4 @@ Commit #475 | Meme: Deleting code is better than writing code.
 Commit #476 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #477 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #478 | Meme: In case of fire: git commit, git push, leave building.
+Commit #479 | Meme: Why do Java developers wear glasses? Because they don't C#.
