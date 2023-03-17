@@ -751,3 +751,4 @@ Commit #749 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #750 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #751 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #752 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #753 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
