@@ -884,3 +884,4 @@ Commit #882 | Meme: It's not a bug, it's an undocumented feature.
 Commit #883 | Meme: Deleting code is better than writing code.
 Commit #884 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #885 | Meme: Deleting code is better than writing code.
+Commit #886 | Meme: Why do Java developers wear glasses? Because they don't C#.
