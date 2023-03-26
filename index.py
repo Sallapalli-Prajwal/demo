@@ -807,3 +807,4 @@ Commit #805 | Meme: It's not a bug, it's an undocumented feature.
 Commit #806 | Meme: In case of fire: git commit, git push, leave building.
 Commit #807 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #808 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #809 | Meme: Why do Java developers wear glasses? Because they don't C#.
