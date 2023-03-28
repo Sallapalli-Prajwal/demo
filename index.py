@@ -686,3 +686,4 @@ Commit #684 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #685 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #686 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #687 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #688 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
