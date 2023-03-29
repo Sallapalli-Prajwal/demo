@@ -905,3 +905,4 @@ Commit #903 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #904 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #905 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #906 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #907 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
