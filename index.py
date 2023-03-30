@@ -541,3 +541,4 @@ Commit #539 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #540 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #541 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #542 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #543 | Meme: Deleting code is better than writing code.
