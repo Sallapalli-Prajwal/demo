@@ -26,3 +26,4 @@ Commit #24 | Meme: Real programmers count from 0.
 Commit #25 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #26 | Meme: There's no place like 127.0.0.1
 Commit #27 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #28 | Meme: Why do Java developers wear glasses? Because they don't C#.
