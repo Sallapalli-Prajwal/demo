@@ -789,3 +789,4 @@ Commit #787 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #788 | Meme: In case of fire: git commit, git push, leave building.
 Commit #789 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #790 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #791 | Meme: Works on my machine! ¯\_(ツ)_/¯
