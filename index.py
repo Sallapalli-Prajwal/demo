@@ -403,3 +403,4 @@ Commit #401 | Meme: There's no place like 127.0.0.1
 Commit #402 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #403 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #404 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #405 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
