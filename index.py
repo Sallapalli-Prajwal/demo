@@ -981,3 +981,4 @@ Commit #979 | Meme: Real programmers count from 0.
 Commit #980 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #981 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #982 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #983 | Meme: In case of fire: git commit, git push, leave building.
