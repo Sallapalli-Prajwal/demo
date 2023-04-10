@@ -614,3 +614,4 @@ Commit #612 | Meme: In case of fire: git commit, git push, leave building.
 Commit #613 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #614 | Meme: Real programmers count from 0.
 Commit #615 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #616 | Meme: Deleting code is better than writing code.
