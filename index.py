@@ -71,3 +71,4 @@ Commit #69 | Meme: Deleting code is better than writing code.
 Commit #70 | Meme: In case of fire: git commit, git push, leave building.
 Commit #71 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #72 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #73 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
