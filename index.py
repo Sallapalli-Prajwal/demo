@@ -913,3 +913,4 @@ Commit #911 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #912 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #913 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #914 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #915 | Meme: There are 10 types of people: those who understand binary, and those who don't.
