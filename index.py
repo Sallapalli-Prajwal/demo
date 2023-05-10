@@ -368,3 +368,4 @@ Commit #366 | Meme: There's no place like 127.0.0.1
 Commit #367 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #368 | Meme: There's no place like 127.0.0.1
 Commit #369 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #370 | Meme: Hide and seek champion since 1958: ';' in C/C++
