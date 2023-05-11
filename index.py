@@ -426,3 +426,4 @@ Commit #424 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #425 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #426 | Meme: Deleting code is better than writing code.
 Commit #427 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #428 | Meme: Real programmers count from 0.
