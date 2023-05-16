@@ -325,3 +325,4 @@ Commit #323 | Meme: Software and cathedrals are much the same – first we build
 Commit #324 | Meme: In case of fire: git commit, git push, leave building.
 Commit #325 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #326 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #327 | Meme: There's no place like 127.0.0.1
