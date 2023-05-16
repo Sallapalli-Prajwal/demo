@@ -394,3 +394,4 @@ Commit #392 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #393 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #394 | Meme: Real programmers count from 0.
 Commit #395 | Meme: Deleting code is better than writing code.
+Commit #396 | Meme: There are 10 types of people: those who understand binary, and those who don't.
