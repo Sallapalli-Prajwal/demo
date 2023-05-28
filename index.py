@@ -863,3 +863,4 @@ Commit #861 | Meme: Software and cathedrals are much the same – first we build
 Commit #862 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #863 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #864 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #865 | Meme: In case of fire: git commit, git push, leave building.
