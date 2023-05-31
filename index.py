@@ -312,3 +312,4 @@ Commit #310 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #311 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #312 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #313 | Meme: Deleting code is better than writing code.
+Commit #314 | Meme: Real programmers count from 0.
