@@ -879,3 +879,4 @@ Commit #877 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #878 | Meme: It's not a bug, it's an undocumented feature.
 Commit #879 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #880 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #881 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
