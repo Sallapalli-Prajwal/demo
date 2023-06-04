@@ -351,3 +351,4 @@ Commit #349 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #350 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #351 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #352 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #353 | Meme: In case of fire: git commit, git push, leave building.
