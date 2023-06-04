@@ -678,3 +678,4 @@ Commit #676 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #677 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #678 | Meme: There's no place like 127.0.0.1
 Commit #679 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #680 | Meme: Why do Java developers wear glasses? Because they don't C#.
