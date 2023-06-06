@@ -15,3 +15,4 @@ Commit #13 | Meme: Software and cathedrals are much the same – first we build 
 Commit #14 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #15 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #16 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #17 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
