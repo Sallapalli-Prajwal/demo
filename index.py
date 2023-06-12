@@ -527,3 +527,4 @@ Commit #525 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #526 | Meme: Real programmers count from 0.
 Commit #527 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #528 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #529 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
