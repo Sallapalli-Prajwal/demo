@@ -520,3 +520,4 @@ Commit #518 | Meme: In case of fire: git commit, git push, leave building.
 Commit #519 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #520 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #521 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #522 | Meme: Why do Java developers wear glasses? Because they don't C#.
