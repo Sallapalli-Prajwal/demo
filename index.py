@@ -428,3 +428,4 @@ Commit #426 | Meme: Deleting code is better than writing code.
 Commit #427 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #428 | Meme: Real programmers count from 0.
 Commit #429 | Meme: There's no place like 127.0.0.1
+Commit #430 | Meme: Hide and seek champion since 1958: ';' in C/C++
