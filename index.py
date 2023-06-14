@@ -893,3 +893,4 @@ Commit #891 | Meme: Software and cathedrals are much the same – first we build
 Commit #892 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #893 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #894 | Meme: It's not a bug, it's an undocumented feature.
+Commit #895 | Meme: There are 10 types of people: those who understand binary, and those who don't.
