@@ -785,3 +785,4 @@ Commit #783 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #784 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #785 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #786 | Meme: Deleting code is better than writing code.
+Commit #787 | Meme: Hide and seek champion since 1958: ';' in C/C++
