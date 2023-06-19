@@ -724,3 +724,4 @@ Commit #722 | Meme: Real programmers count from 0.
 Commit #723 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #724 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #725 | Meme: To understand recursion, you must first understand recursion.
+Commit #726 | Meme: Real programmers count from 0.
