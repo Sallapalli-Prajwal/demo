@@ -969,3 +969,4 @@ Commit #967 | Meme: There are 10 types of people: those who understand binary, a
 Commit #968 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #969 | Meme: It's not a bug, it's an undocumented feature.
 Commit #970 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #971 | Meme: Real programmers count from 0.
