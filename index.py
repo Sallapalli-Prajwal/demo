@@ -852,3 +852,4 @@ Commit #850 | Meme: There are 10 types of people: those who understand binary, a
 Commit #851 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #852 | Meme: In case of fire: git commit, git push, leave building.
 Commit #853 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #854 | Meme: There's no place like 127.0.0.1
