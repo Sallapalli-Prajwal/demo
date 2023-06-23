@@ -574,3 +574,4 @@ Commit #572 | Meme: There are 10 types of people: those who understand binary, a
 Commit #573 | Meme: It's not a bug, it's an undocumented feature.
 Commit #574 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #575 | Meme: It's not a bug, it's an undocumented feature.
+Commit #576 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
