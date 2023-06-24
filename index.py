@@ -82,3 +82,4 @@ Commit #80 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #81 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #82 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #83 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #84 | Meme: In case of fire: git commit, git push, leave building.
