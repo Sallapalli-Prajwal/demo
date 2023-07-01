@@ -400,3 +400,4 @@ Commit #398 | Meme: It's not a bug, it's an undocumented feature.
 Commit #399 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #400 | Meme: Deleting code is better than writing code.
 Commit #401 | Meme: There's no place like 127.0.0.1
+Commit #402 | Meme: Hide and seek champion since 1958: ';' in C/C++
