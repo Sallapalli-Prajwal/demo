@@ -244,3 +244,4 @@ Commit #242 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #243 | Meme: Real programmers count from 0.
 Commit #244 | Meme: Deleting code is better than writing code.
 Commit #245 | Meme: To understand recursion, you must first understand recursion.
+Commit #246 | Meme: Real programmers count from 0.
