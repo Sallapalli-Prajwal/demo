@@ -234,3 +234,4 @@ Commit #232 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #233 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #234 | Meme: Deleting code is better than writing code.
 Commit #235 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #236 | Meme: There are 10 types of people: those who understand binary, and those who don't.
