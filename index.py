@@ -923,3 +923,4 @@ Commit #921 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #922 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #923 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #924 | Meme: In case of fire: git commit, git push, leave building.
+Commit #925 | Meme: Why do Java developers wear glasses? Because they don't C#.
