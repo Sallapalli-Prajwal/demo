@@ -846,3 +846,4 @@ Commit #844 | Meme: In case of fire: git commit, git push, leave building.
 Commit #845 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #846 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #847 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #848 | Meme: Deleting code is better than writing code.
