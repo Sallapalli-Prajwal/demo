@@ -741,3 +741,4 @@ Commit #739 | Meme: It's not a bug, it's an undocumented feature.
 Commit #740 | Meme: It's not a bug, it's an undocumented feature.
 Commit #741 | Meme: It's not a bug, it's an undocumented feature.
 Commit #742 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #743 | Meme: To understand recursion, you must first understand recursion.
