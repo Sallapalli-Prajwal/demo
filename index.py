@@ -918,3 +918,4 @@ Commit #916 | Meme: Software and cathedrals are much the same – first we build
 Commit #917 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #918 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #919 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #920 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
