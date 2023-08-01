@@ -802,3 +802,4 @@ Commit #800 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #801 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #802 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #803 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #804 | Meme: In case of fire: git commit, git push, leave building.
