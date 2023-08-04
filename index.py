@@ -295,3 +295,4 @@ Commit #293 | Meme: To understand recursion, you must first understand recursion
 Commit #294 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #295 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #296 | Meme: There's no place like 127.0.0.1
+Commit #297 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
