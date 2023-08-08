@@ -63,3 +63,4 @@ Commit #61 | Meme: It's not a bug, it's an undocumented feature.
 Commit #62 | Meme: In case of fire: git commit, git push, leave building.
 Commit #63 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #64 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #65 | Meme: In case of fire: git commit, git push, leave building.
