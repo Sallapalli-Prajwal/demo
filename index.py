@@ -543,3 +543,4 @@ Commit #541 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #542 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #543 | Meme: Deleting code is better than writing code.
 Commit #544 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #545 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
