@@ -342,3 +342,4 @@ Commit #340 | Meme: Software and cathedrals are much the same – first we build
 Commit #341 | Meme: To understand recursion, you must first understand recursion.
 Commit #342 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #343 | Meme: In case of fire: git commit, git push, leave building.
+Commit #344 | Meme: In case of fire: git commit, git push, leave building.
