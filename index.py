@@ -584,3 +584,4 @@ Commit #582 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #583 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #584 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #585 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #586 | Meme: Hide and seek champion since 1958: ';' in C/C++
