@@ -373,3 +373,4 @@ Commit #371 | Meme: Real programmers count from 0.
 Commit #372 | Meme: To understand recursion, you must first understand recursion.
 Commit #373 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #374 | Meme: Deleting code is better than writing code.
+Commit #375 | Meme: Hide and seek champion since 1958: ';' in C/C++
