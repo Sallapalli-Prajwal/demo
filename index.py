@@ -731,3 +731,4 @@ Commit #729 | Meme: To understand recursion, you must first understand recursion
 Commit #730 | Meme: It's not a bug, it's an undocumented feature.
 Commit #731 | Meme: Real programmers count from 0.
 Commit #732 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #733 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
