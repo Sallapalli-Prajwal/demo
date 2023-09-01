@@ -192,3 +192,4 @@ Commit #190 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #191 | Meme: Real programmers count from 0.
 Commit #192 | Meme: Real programmers count from 0.
 Commit #193 | Meme: Deleting code is better than writing code.
+Commit #194 | Meme: Real programmers count from 0.
