@@ -279,3 +279,4 @@ Commit #277 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #278 | Meme: Deleting code is better than writing code.
 Commit #279 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #280 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #281 | Meme: To understand recursion, you must first understand recursion.
