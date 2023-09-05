@@ -514,3 +514,4 @@ Commit #512 | Meme: Software and cathedrals are much the same – first we build
 Commit #513 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #514 | Meme: Deleting code is better than writing code.
 Commit #515 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #516 | Meme: Deleting code is better than writing code.
