@@ -98,3 +98,4 @@ Commit #96 | Meme: Deleting code is better than writing code.
 Commit #97 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #98 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #99 | Meme: Deleting code is better than writing code.
+Commit #100 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
