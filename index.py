@@ -873,3 +873,4 @@ Commit #871 | Meme: Software and cathedrals are much the same – first we build
 Commit #872 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #873 | Meme: In case of fire: git commit, git push, leave building.
 Commit #874 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #875 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
