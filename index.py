@@ -848,3 +848,4 @@ Commit #846 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #847 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #848 | Meme: Deleting code is better than writing code.
 Commit #849 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #850 | Meme: There are 10 types of people: those who understand binary, and those who don't.
