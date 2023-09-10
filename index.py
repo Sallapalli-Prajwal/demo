@@ -558,3 +558,4 @@ Commit #556 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #557 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #558 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #559 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #560 | Meme: There are 10 types of people: those who understand binary, and those who don't.
