@@ -683,3 +683,4 @@ Commit #681 | Meme: It's not a bug, it's an undocumented feature.
 Commit #682 | Meme: Real programmers count from 0.
 Commit #683 | Meme: There's no place like 127.0.0.1
 Commit #684 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #685 | Meme: Why do Java developers wear glasses? Because they don't C#.
