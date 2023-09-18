@@ -359,3 +359,4 @@ Commit #357 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #358 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #359 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #360 | Meme: To understand recursion, you must first understand recursion.
+Commit #361 | Meme: There's no place like 127.0.0.1
