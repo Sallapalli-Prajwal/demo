@@ -265,3 +265,4 @@ Commit #263 | Meme: It's not a bug, it's an undocumented feature.
 Commit #264 | Meme: Real programmers count from 0.
 Commit #265 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #266 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #267 | Meme: To understand recursion, you must first understand recursion.
