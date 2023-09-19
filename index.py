@@ -763,3 +763,4 @@ Commit #761 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #762 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #763 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #764 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #765 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
