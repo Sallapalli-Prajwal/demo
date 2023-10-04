@@ -642,3 +642,4 @@ Commit #640 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #641 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #642 | Meme: There's no place like 127.0.0.1
 Commit #643 | Meme: Real programmers count from 0.
+Commit #644 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
