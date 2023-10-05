@@ -489,3 +489,4 @@ Commit #487 | Meme: Software and cathedrals are much the same – first we build
 Commit #488 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #489 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #490 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #491 | Meme: It's not a bug, it's an undocumented feature.
