@@ -721,3 +721,4 @@ Commit #719 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #720 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #721 | Meme: To understand recursion, you must first understand recursion.
 Commit #722 | Meme: Real programmers count from 0.
+Commit #723 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
