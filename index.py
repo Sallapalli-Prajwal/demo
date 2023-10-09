@@ -105,3 +105,4 @@ Commit #103 | Meme: There are 10 types of people: those who understand binary, a
 Commit #104 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #105 | Meme: Deleting code is better than writing code.
 Commit #106 | Meme: Real programmers count from 0.
+Commit #107 | Meme: There's no place like 127.0.0.1
