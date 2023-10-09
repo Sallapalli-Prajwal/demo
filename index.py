@@ -204,3 +204,4 @@ Commit #202 | Meme: There are 10 types of people: those who understand binary, a
 Commit #203 | Meme: Deleting code is better than writing code.
 Commit #204 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #205 | Meme: Real programmers count from 0.
+Commit #206 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
