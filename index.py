@@ -380,3 +380,4 @@ Commit #378 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #379 | Meme: To understand recursion, you must first understand recursion.
 Commit #380 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #381 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #382 | Meme: There are 10 types of people: those who understand binary, and those who don't.
