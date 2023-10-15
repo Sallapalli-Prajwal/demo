@@ -274,3 +274,4 @@ Commit #272 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #273 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #274 | Meme: In case of fire: git commit, git push, leave building.
 Commit #275 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #276 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
