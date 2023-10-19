@@ -996,3 +996,4 @@ Commit #994 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #995 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #996 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #997 | Meme: Real programmers count from 0.
+Commit #998 | Meme: In case of fire: git commit, git push, leave building.
