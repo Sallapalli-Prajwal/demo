@@ -68,3 +68,4 @@ Commit #66 | Meme: Real programmers count from 0.
 Commit #67 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #68 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #69 | Meme: Deleting code is better than writing code.
+Commit #70 | Meme: In case of fire: git commit, git push, leave building.
