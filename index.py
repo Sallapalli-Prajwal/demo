@@ -315,3 +315,4 @@ Commit #313 | Meme: Deleting code is better than writing code.
 Commit #314 | Meme: Real programmers count from 0.
 Commit #315 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #316 | Meme: Real programmers count from 0.
+Commit #317 | Meme: There are 10 types of people: those who understand binary, and those who don't.
