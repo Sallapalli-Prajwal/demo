@@ -548,3 +548,4 @@ Commit #546 | Meme: There's no place like 127.0.0.1
 Commit #547 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #548 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #549 | Meme: Real programmers count from 0.
+Commit #550 | Meme: Hide and seek champion since 1958: ';' in C/C++
