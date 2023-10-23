@@ -593,3 +593,4 @@ Commit #591 | Meme: It's not a bug, it's an undocumented feature.
 Commit #592 | Meme: Deleting code is better than writing code.
 Commit #593 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #594 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #595 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
