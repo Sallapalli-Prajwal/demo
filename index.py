@@ -868,3 +868,4 @@ Commit #866 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #867 | Meme: There's no place like 127.0.0.1
 Commit #868 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #869 | Meme: Real programmers count from 0.
+Commit #870 | Meme: In case of fire: git commit, git push, leave building.
