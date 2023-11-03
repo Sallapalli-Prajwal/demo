@@ -141,3 +141,4 @@ Commit #139 | Meme: It's not a bug, it's an undocumented feature.
 Commit #140 | Meme: Real programmers count from 0.
 Commit #141 | Meme: It's not a bug, it's an undocumented feature.
 Commit #142 | Meme: In case of fire: git commit, git push, leave building.
+Commit #143 | Meme: Why do Java developers wear glasses? Because they don't C#.
