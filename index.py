@@ -201,3 +201,4 @@ Commit #199 | Meme: There's no place like 127.0.0.1
 Commit #200 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #201 | Meme: There's no place like 127.0.0.1
 Commit #202 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #203 | Meme: Deleting code is better than writing code.
