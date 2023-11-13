@@ -439,3 +439,4 @@ Commit #437 | Meme: Real programmers count from 0.
 Commit #438 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #439 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #440 | Meme: To understand recursion, you must first understand recursion.
+Commit #441 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
