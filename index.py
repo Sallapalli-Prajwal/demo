@@ -324,3 +324,4 @@ Commit #322 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #323 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #324 | Meme: In case of fire: git commit, git push, leave building.
 Commit #325 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #326 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
