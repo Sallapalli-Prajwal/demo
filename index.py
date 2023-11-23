@@ -220,3 +220,4 @@ Commit #218 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #219 | Meme: There's no place like 127.0.0.1
 Commit #220 | Meme: To understand recursion, you must first understand recursion.
 Commit #221 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #222 | Meme: In case of fire: git commit, git push, leave building.
