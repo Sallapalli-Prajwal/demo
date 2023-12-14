@@ -583,3 +583,4 @@ Commit #581 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #582 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #583 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #584 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #585 | Meme: There are 10 types of people: those who understand binary, and those who don't.
