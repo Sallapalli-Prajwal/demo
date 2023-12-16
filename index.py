@@ -928,3 +928,4 @@ Commit #926 | Meme: Software and cathedrals are much the same – first we build
 Commit #927 | Meme: Real programmers count from 0.
 Commit #928 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #929 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #930 | Meme: In case of fire: git commit, git push, leave building.
