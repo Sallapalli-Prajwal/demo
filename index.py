@@ -931,3 +931,4 @@ Commit #929 | Meme: Software and cathedrals are much the same – first we build
 Commit #930 | Meme: In case of fire: git commit, git push, leave building.
 Commit #931 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #932 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #933 | Meme: In case of fire: git commit, git push, leave building.
