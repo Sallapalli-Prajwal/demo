@@ -423,3 +423,4 @@ Commit #421 | Meme: Software and cathedrals are much the same – first we build
 Commit #422 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #423 | Meme: Deleting code is better than writing code.
 Commit #424 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #425 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
