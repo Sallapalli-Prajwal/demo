@@ -348,3 +348,4 @@ Commit #346 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #347 | Meme: Real programmers count from 0.
 Commit #348 | Meme: Deleting code is better than writing code.
 Commit #349 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #350 | Meme: There are 10 types of people: those who understand binary, and those who don't.
