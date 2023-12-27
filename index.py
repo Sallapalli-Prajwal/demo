@@ -431,3 +431,4 @@ Commit #429 | Meme: There's no place like 127.0.0.1
 Commit #430 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #431 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #432 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #433 | Meme: Deleting code is better than writing code.
