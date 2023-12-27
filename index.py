@@ -419,3 +419,4 @@ Commit #417 | Meme: To understand recursion, you must first understand recursion
 Commit #418 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #419 | Meme: In case of fire: git commit, git push, leave building.
 Commit #420 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #421 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
