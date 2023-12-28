@@ -119,3 +119,4 @@ Commit #117 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #118 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #119 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #120 | Meme: To understand recursion, you must first understand recursion.
+Commit #121 | Meme: Hide and seek champion since 1958: ';' in C/C++
