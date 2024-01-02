@@ -1772,3 +1772,4 @@ Commit #770 | Meme: Deleting code is better than writing code.
 Commit #771 | Meme: Real programmers count from 0.
 Commit #772 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #773 | Meme: There's no place like 127.0.0.1
+Commit #774 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
