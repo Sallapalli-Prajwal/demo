@@ -1450,3 +1450,4 @@ Commit #448 | Meme: Deleting code is better than writing code.
 Commit #449 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #450 | Meme: Real programmers count from 0.
 Commit #451 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #452 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
