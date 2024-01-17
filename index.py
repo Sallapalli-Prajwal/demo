@@ -1678,3 +1678,4 @@ Commit #676 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #677 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #678 | Meme: In case of fire: git commit, git push, leave building.
 Commit #679 | Meme: It's not a bug, it's an undocumented feature.
+Commit #680 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
