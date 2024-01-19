@@ -1902,3 +1902,4 @@ Commit #900 | Meme: There are 10 types of people: those who understand binary, a
 Commit #901 | Meme: To understand recursion, you must first understand recursion.
 Commit #902 | Meme: Deleting code is better than writing code.
 Commit #903 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #904 | Meme: It's not a bug, it's an undocumented feature.
