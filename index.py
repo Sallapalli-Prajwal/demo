@@ -1270,3 +1270,4 @@ Commit #268 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #269 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #270 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #271 | Meme: To understand recursion, you must first understand recursion.
+Commit #272 | Meme: In case of fire: git commit, git push, leave building.
