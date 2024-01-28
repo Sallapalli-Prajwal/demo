@@ -1577,3 +1577,4 @@ Commit #575 | Meme: There are 10 types of people: those who understand binary, a
 Commit #576 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #577 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #578 | Meme: Deleting code is better than writing code.
+Commit #579 | Meme: Why do Java developers wear glasses? Because they don't C#.
