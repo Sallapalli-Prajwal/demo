@@ -1051,3 +1051,4 @@ Commit #49 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #50 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #51 | Meme: In case of fire: git commit, git push, leave building.
 Commit #52 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #53 | Meme: To understand recursion, you must first understand recursion.
