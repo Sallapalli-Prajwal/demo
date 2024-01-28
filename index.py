@@ -1300,3 +1300,4 @@ Commit #298 | Meme: Deleting code is better than writing code.
 Commit #299 | Meme: It's not a bug, it's an undocumented feature.
 Commit #300 | Meme: Real programmers count from 0.
 Commit #301 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #302 | Meme: Works on my machine! ¯\_(ツ)_/¯
