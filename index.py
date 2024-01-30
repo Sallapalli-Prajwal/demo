@@ -1706,3 +1706,4 @@ Commit #704 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #705 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #706 | Meme: It's not a bug, it's an undocumented feature.
 Commit #707 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #708 | Meme: There are 10 types of people: those who understand binary, and those who don't.
