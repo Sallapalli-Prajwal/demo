@@ -1138,3 +1138,4 @@ Commit #136 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #137 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #138 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #139 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #140 | Meme: Hide and seek champion since 1958: ';' in C/C++
