@@ -1490,3 +1490,4 @@ Commit #488 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #489 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #490 | Meme: Real programmers count from 0.
 Commit #491 | Meme: In case of fire: git commit, git push, leave building.
+Commit #492 | Meme: It's not a bug, it's an undocumented feature.
