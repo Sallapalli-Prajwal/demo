@@ -2019,3 +2019,4 @@ Commit #1017 | Meme: Software and cathedrals are much the same – first we buil
 Commit #1018 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1019 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1020 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #1021 | Meme: Why do Java developers wear glasses? Because they don't C#.
