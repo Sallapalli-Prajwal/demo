@@ -2018,3 +2018,4 @@ Commit #1016 | Meme: There are 10 types of people: those who understand binary, 
 Commit #1017 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1018 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1019 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #1020 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
