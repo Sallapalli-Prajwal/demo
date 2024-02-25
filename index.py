@@ -1862,3 +1862,4 @@ Commit #860 | Meme: Deleting code is better than writing code.
 Commit #861 | Meme: There's no place like 127.0.0.1
 Commit #862 | Meme: It's not a bug, it's an undocumented feature.
 Commit #863 | Meme: Real programmers count from 0.
+Commit #864 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
