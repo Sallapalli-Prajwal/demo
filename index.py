@@ -1802,3 +1802,4 @@ Commit #800 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #801 | Meme: In case of fire: git commit, git push, leave building.
 Commit #802 | Meme: It's not a bug, it's an undocumented feature.
 Commit #803 | Meme: In case of fire: git commit, git push, leave building.
+Commit #804 | Meme: Why do Java developers wear glasses? Because they don't C#.
