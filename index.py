@@ -1499,3 +1499,4 @@ Commit #497 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #498 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #499 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #500 | Meme: Deleting code is better than writing code.
+Commit #501 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
