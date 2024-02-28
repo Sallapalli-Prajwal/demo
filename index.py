@@ -1072,3 +1072,4 @@ Commit #70 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #71 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #72 | Meme: Deleting code is better than writing code.
 Commit #73 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #74 | Meme: Works on my machine! ¯\_(ツ)_/¯
