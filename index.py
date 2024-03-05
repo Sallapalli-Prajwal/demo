@@ -1033,3 +1033,4 @@ Commit #31 | Meme: In case of fire: git commit, git push, leave building.
 Commit #32 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #33 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #34 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #35 | Meme: Why do Java developers wear glasses? Because they don't C#.
