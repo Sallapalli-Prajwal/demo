@@ -2061,3 +2061,4 @@ Commit #1059 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #1060 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1061 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1062 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #1063 | Meme: Why do Java developers wear glasses? Because they don't C#.
