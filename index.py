@@ -1849,3 +1849,4 @@ Commit #847 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #848 | Meme: Deleting code is better than writing code.
 Commit #849 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #850 | Meme: It's not a bug, it's an undocumented feature.
+Commit #851 | Meme: Real programmers count from 0.
