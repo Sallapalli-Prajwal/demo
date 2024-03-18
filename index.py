@@ -1579,3 +1579,4 @@ Commit #577 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #578 | Meme: Deleting code is better than writing code.
 Commit #579 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #580 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #581 | Meme: There are 10 types of people: those who understand binary, and those who don't.
