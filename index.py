@@ -1253,3 +1253,4 @@ Commit #251 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #252 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #253 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #254 | Meme: To understand recursion, you must first understand recursion.
+Commit #255 | Meme: It's not a bug, it's an undocumented feature.
