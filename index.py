@@ -2154,3 +2154,4 @@ Commit #1152 | Meme: To understand recursion, you must first understand recursio
 Commit #1153 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1154 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1155 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #1156 | Meme: In case of fire: git commit, git push, leave building.
