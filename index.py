@@ -1423,3 +1423,4 @@ Commit #421 | Meme: Deleting code is better than writing code.
 Commit #422 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #423 | Meme: Real programmers count from 0.
 Commit #424 | Meme: To understand recursion, you must first understand recursion.
+Commit #425 | Meme: There's no place like 127.0.0.1
