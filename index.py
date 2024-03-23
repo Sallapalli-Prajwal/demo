@@ -1121,3 +1121,4 @@ Commit #119 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #120 | Meme: Real programmers count from 0.
 Commit #121 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #122 | Meme: Deleting code is better than writing code.
+Commit #123 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
