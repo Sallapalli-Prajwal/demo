@@ -2056,3 +2056,4 @@ Commit #1054 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #1055 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1056 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #1057 | Meme: To understand recursion, you must first understand recursion.
+Commit #1058 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
