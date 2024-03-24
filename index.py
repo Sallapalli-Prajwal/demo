@@ -1691,3 +1691,4 @@ Commit #689 | Meme: Software and cathedrals are much the same – first we build
 Commit #690 | Meme: Real programmers count from 0.
 Commit #691 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #692 | Meme: Real programmers count from 0.
+Commit #693 | Meme: There's no place like 127.0.0.1
