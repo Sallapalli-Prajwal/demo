@@ -2146,3 +2146,4 @@ Commit #1144 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1145 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1146 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1147 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #1148 | Meme: To understand recursion, you must first understand recursion.
