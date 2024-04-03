@@ -1315,3 +1315,4 @@ Commit #313 | Meme: There are 10 types of people: those who understand binary, a
 Commit #314 | Meme: Deleting code is better than writing code.
 Commit #315 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #316 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #317 | Meme: Hide and seek champion since 1958: ';' in C/C++
