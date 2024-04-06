@@ -1213,3 +1213,4 @@ Commit #211 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #212 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #213 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #214 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #215 | Meme: Why do Java developers wear glasses? Because they don't C#.
