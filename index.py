@@ -1968,3 +1968,4 @@ Commit #966 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #967 | Meme: Deleting code is better than writing code.
 Commit #968 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #969 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #970 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
