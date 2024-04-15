@@ -1607,3 +1607,4 @@ Commit #605 | Meme: To understand recursion, you must first understand recursion
 Commit #606 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #607 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #608 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #609 | Meme: Real programmers count from 0.
