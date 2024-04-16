@@ -1241,3 +1241,4 @@ Commit #239 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #240 | Meme: To understand recursion, you must first understand recursion.
 Commit #241 | Meme: To understand recursion, you must first understand recursion.
 Commit #242 | Meme: It's not a bug, it's an undocumented feature.
+Commit #243 | Meme: To understand recursion, you must first understand recursion.
