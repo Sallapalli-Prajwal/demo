@@ -1791,3 +1791,4 @@ Commit #789 | Meme: Software and cathedrals are much the same – first we build
 Commit #790 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #791 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #792 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #793 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
