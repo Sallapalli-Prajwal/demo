@@ -1409,3 +1409,4 @@ Commit #407 | Meme: It's not a bug, it's an undocumented feature.
 Commit #408 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #409 | Meme: It's not a bug, it's an undocumented feature.
 Commit #410 | Meme: In case of fire: git commit, git push, leave building.
+Commit #411 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
