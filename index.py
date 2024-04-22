@@ -1672,3 +1672,4 @@ Commit #670 | Meme: Real programmers count from 0.
 Commit #671 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #672 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #673 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #674 | Meme: In case of fire: git commit, git push, leave building.
