@@ -1689,3 +1689,4 @@ Commit #687 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #688 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #689 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #690 | Meme: Real programmers count from 0.
+Commit #691 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
