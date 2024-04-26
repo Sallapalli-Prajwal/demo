@@ -2016,3 +2016,4 @@ Commit #1014 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #1015 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1016 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1017 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #1018 | Meme: Works on my machine! ¯\_(ツ)_/¯
