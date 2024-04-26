@@ -1230,3 +1230,4 @@ Commit #228 | Meme: Real programmers count from 0.
 Commit #229 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #230 | Meme: It's not a bug, it's an undocumented feature.
 Commit #231 | Meme: To understand recursion, you must first understand recursion.
+Commit #232 | Meme: Hide and seek champion since 1958: ';' in C/C++
