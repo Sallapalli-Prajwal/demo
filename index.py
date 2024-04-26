@@ -2127,3 +2127,4 @@ Commit #1125 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1126 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1127 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1128 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1129 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
