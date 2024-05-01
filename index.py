@@ -2037,3 +2037,4 @@ Commit #1035 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #1036 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1037 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1038 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #1039 | Meme: To understand recursion, you must first understand recursion.
