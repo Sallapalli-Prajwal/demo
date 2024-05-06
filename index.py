@@ -1598,3 +1598,4 @@ Commit #596 | Meme: In case of fire: git commit, git push, leave building.
 Commit #597 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #598 | Meme: It's not a bug, it's an undocumented feature.
 Commit #599 | Meme: It's not a bug, it's an undocumented feature.
+Commit #600 | Meme: There's no place like 127.0.0.1
