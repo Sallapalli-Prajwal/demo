@@ -1998,3 +1998,4 @@ Commit #996 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #997 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #998 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #999 | Meme: Real programmers count from 0.
+Commit #1000 | Meme: Real programmers count from 0.
