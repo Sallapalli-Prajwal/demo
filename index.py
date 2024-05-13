@@ -1983,3 +1983,4 @@ Commit #981 | Meme: There's no place like 127.0.0.1
 Commit #982 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #983 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #984 | Meme: Deleting code is better than writing code.
+Commit #985 | Meme: To understand recursion, you must first understand recursion.
