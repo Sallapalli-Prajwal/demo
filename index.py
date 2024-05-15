@@ -1808,3 +1808,4 @@ Commit #806 | Meme: It's not a bug, it's an undocumented feature.
 Commit #807 | Meme: There's no place like 127.0.0.1
 Commit #808 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #809 | Meme: In case of fire: git commit, git push, leave building.
+Commit #810 | Meme: There are 10 types of people: those who understand binary, and those who don't.
