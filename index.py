@@ -1817,3 +1817,4 @@ Commit #815 | Meme: In case of fire: git commit, git push, leave building.
 Commit #816 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #817 | Meme: Deleting code is better than writing code.
 Commit #818 | Meme: To understand recursion, you must first understand recursion.
+Commit #819 | Meme: It's not a bug, it's an undocumented feature.
