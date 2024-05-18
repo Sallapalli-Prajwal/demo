@@ -1312,3 +1312,4 @@ Commit #310 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #311 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #312 | Meme: Real programmers count from 0.
 Commit #313 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #314 | Meme: Deleting code is better than writing code.
