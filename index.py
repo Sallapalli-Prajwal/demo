@@ -1804,3 +1804,4 @@ Commit #802 | Meme: It's not a bug, it's an undocumented feature.
 Commit #803 | Meme: In case of fire: git commit, git push, leave building.
 Commit #804 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #805 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #806 | Meme: It's not a bug, it's an undocumented feature.
