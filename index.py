@@ -1059,3 +1059,4 @@ Commit #57 | Meme: There are 10 types of people: those who understand binary, an
 Commit #58 | Meme: Real programmers count from 0.
 Commit #59 | Meme: In case of fire: git commit, git push, leave building.
 Commit #60 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #61 | Meme: Hide and seek champion since 1958: ';' in C/C++
