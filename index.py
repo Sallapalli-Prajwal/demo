@@ -1596,3 +1596,4 @@ Commit #594 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #595 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #596 | Meme: In case of fire: git commit, git push, leave building.
 Commit #597 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #598 | Meme: It's not a bug, it's an undocumented feature.
