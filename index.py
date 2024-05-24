@@ -1741,3 +1741,4 @@ Commit #739 | Meme: There are 10 types of people: those who understand binary, a
 Commit #740 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #741 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #742 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #743 | Meme: It's not a bug, it's an undocumented feature.
