@@ -1708,3 +1708,4 @@ Commit #706 | Meme: It's not a bug, it's an undocumented feature.
 Commit #707 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #708 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #709 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #710 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
