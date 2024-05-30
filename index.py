@@ -1220,3 +1220,4 @@ Commit #218 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #219 | Meme: Real programmers count from 0.
 Commit #220 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #221 | Meme: Real programmers count from 0.
+Commit #222 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
