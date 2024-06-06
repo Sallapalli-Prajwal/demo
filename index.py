@@ -1100,3 +1100,4 @@ Commit #98 | Meme: Real programmers count from 0.
 Commit #99 | Meme: It's not a bug, it's an undocumented feature.
 Commit #100 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #101 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #102 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
