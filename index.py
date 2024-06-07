@@ -1994,3 +1994,4 @@ Commit #992 | Meme: In case of fire: git commit, git push, leave building.
 Commit #993 | Meme: There's no place like 127.0.0.1
 Commit #994 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #995 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #996 | Meme: Hide and seek champion since 1958: ';' in C/C++
