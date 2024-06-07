@@ -1434,3 +1434,4 @@ Commit #432 | Meme: Software and cathedrals are much the same – first we build
 Commit #433 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #434 | Meme: In case of fire: git commit, git push, leave building.
 Commit #435 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #436 | Meme: Deleting code is better than writing code.
