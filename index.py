@@ -1476,3 +1476,4 @@ Commit #474 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #475 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #476 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #477 | Meme: To understand recursion, you must first understand recursion.
+Commit #478 | Meme: Deleting code is better than writing code.
