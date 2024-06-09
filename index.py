@@ -1891,3 +1891,4 @@ Commit #889 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #890 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #891 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #892 | Meme: To understand recursion, you must first understand recursion.
+Commit #893 | Meme: Real programmers count from 0.
