@@ -2002,3 +2002,4 @@ Commit #1000 | Meme: Real programmers count from 0.
 Commit #1001 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1002 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #1003 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1004 | Meme: There's no place like 127.0.0.1
