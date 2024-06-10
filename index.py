@@ -2117,3 +2117,4 @@ Commit #1115 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #1116 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1117 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1118 | Meme: Real programmers count from 0.
+Commit #1119 | Meme: Deleting code is better than writing code.
