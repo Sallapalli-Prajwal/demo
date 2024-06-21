@@ -2047,3 +2047,4 @@ Commit #1045 | Meme: Real programmers count from 0.
 Commit #1046 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1047 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1048 | Meme: To understand recursion, you must first understand recursion.
+Commit #1049 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
