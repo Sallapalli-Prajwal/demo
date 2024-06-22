@@ -1454,3 +1454,4 @@ Commit #452 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #453 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #454 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #455 | Meme: To understand recursion, you must first understand recursion.
+Commit #456 | Meme: There are 10 types of people: those who understand binary, and those who don't.
