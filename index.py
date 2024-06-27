@@ -1778,3 +1778,4 @@ Commit #776 | Meme: Real programmers count from 0.
 Commit #777 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #778 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #779 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #780 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
