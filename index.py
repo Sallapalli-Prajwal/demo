@@ -2121,3 +2121,4 @@ Commit #1119 | Meme: Deleting code is better than writing code.
 Commit #1120 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1121 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1122 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #1123 | Meme: Deleting code is better than writing code.
