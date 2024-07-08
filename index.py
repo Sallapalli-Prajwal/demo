@@ -1061,3 +1061,4 @@ Commit #59 | Meme: In case of fire: git commit, git push, leave building.
 Commit #60 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #61 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #62 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #63 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
