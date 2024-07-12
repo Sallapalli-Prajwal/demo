@@ -1562,3 +1562,4 @@ Commit #560 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #561 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #562 | Meme: It's not a bug, it's an undocumented feature.
 Commit #563 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #564 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
