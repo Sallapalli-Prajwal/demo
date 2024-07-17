@@ -1900,3 +1900,4 @@ Commit #898 | Meme: There are 10 types of people: those who understand binary, a
 Commit #899 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #900 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #901 | Meme: To understand recursion, you must first understand recursion.
+Commit #902 | Meme: Deleting code is better than writing code.
