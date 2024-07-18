@@ -1269,3 +1269,4 @@ Commit #267 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #268 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #269 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #270 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #271 | Meme: To understand recursion, you must first understand recursion.
