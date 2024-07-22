@@ -1970,3 +1970,4 @@ Commit #968 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #969 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #970 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #971 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #972 | Meme: Hide and seek champion since 1958: ';' in C/C++
