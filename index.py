@@ -1035,3 +1035,4 @@ Commit #33 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #34 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #35 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #36 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #37 | Meme: Deleting code is better than writing code.
