@@ -1974,3 +1974,4 @@ Commit #972 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #973 | Meme: In case of fire: git commit, git push, leave building.
 Commit #974 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #975 | Meme: There's no place like 127.0.0.1
+Commit #976 | Meme: There are 10 types of people: those who understand binary, and those who don't.
