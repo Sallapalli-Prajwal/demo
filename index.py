@@ -1345,3 +1345,4 @@ Commit #343 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #344 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #345 | Meme: In case of fire: git commit, git push, leave building.
 Commit #346 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #347 | Meme: Hide and seek champion since 1958: ';' in C/C++
