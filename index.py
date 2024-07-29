@@ -1020,3 +1020,4 @@ Commit #18 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #19 | Meme: Deleting code is better than writing code.
 Commit #20 | Meme: To understand recursion, you must first understand recursion.
 Commit #21 | Meme: In case of fire: git commit, git push, leave building.
+Commit #22 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
