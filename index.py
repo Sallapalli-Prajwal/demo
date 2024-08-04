@@ -1721,3 +1721,4 @@ Commit #719 | Meme: Real programmers count from 0.
 Commit #720 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #721 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #722 | Meme: In case of fire: git commit, git push, leave building.
+Commit #723 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
