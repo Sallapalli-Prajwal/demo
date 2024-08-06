@@ -1864,3 +1864,4 @@ Commit #862 | Meme: It's not a bug, it's an undocumented feature.
 Commit #863 | Meme: Real programmers count from 0.
 Commit #864 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #865 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #866 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
