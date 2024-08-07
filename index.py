@@ -1609,3 +1609,4 @@ Commit #607 | Meme: Software and cathedrals are much the same – first we build
 Commit #608 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #609 | Meme: Real programmers count from 0.
 Commit #610 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #611 | Meme: Deleting code is better than writing code.
