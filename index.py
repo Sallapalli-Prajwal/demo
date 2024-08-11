@@ -1094,3 +1094,4 @@ Commit #92 | Meme: Software and cathedrals are much the same – first we build 
 Commit #93 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #94 | Meme: Deleting code is better than writing code.
 Commit #95 | Meme: To understand recursion, you must first understand recursion.
+Commit #96 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
