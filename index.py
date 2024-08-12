@@ -1658,3 +1658,4 @@ Commit #656 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #657 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #658 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #659 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #660 | Meme: Why do Java developers wear glasses? Because they don't C#.
