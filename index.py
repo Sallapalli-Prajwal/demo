@@ -2063,3 +2063,4 @@ Commit #1061 | Meme: There are 10 types of people: those who understand binary, 
 Commit #1062 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1063 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1064 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #1065 | Meme: To understand recursion, you must first understand recursion.
