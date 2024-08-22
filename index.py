@@ -1165,3 +1165,4 @@ Commit #163 | Meme: Real programmers count from 0.
 Commit #164 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #165 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #166 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #167 | Meme: Why do Java developers wear glasses? Because they don't C#.
