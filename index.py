@@ -1257,3 +1257,4 @@ Commit #255 | Meme: It's not a bug, it's an undocumented feature.
 Commit #256 | Meme: It's not a bug, it's an undocumented feature.
 Commit #257 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #258 | Meme: Real programmers count from 0.
+Commit #259 | Meme: It's not a bug, it's an undocumented feature.
