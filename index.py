@@ -2035,3 +2035,4 @@ Commit #1033 | Meme: Deleting code is better than writing code.
 Commit #1034 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1035 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #1036 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #1037 | Meme: In case of fire: git commit, git push, leave building.
