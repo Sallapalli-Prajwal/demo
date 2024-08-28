@@ -1026,3 +1026,4 @@ Commit #24 | Meme: Software and cathedrals are much the same – first we build 
 Commit #25 | Meme: There's no place like 127.0.0.1
 Commit #26 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #27 | Meme: In case of fire: git commit, git push, leave building.
+Commit #28 | Meme: Hide and seek champion since 1958: ';' in C/C++
