@@ -1944,3 +1944,4 @@ Commit #942 | Meme: Real programmers count from 0.
 Commit #943 | Meme: It's not a bug, it's an undocumented feature.
 Commit #944 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #945 | Meme: Deleting code is better than writing code.
+Commit #946 | Meme: There are 10 types of people: those who understand binary, and those who don't.
