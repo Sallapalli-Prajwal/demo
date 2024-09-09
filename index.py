@@ -2129,3 +2129,4 @@ Commit #1127 | Meme: Software and cathedrals are much the same – first we buil
 Commit #1128 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1129 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1130 | Meme: To understand recursion, you must first understand recursion.
+Commit #1131 | Meme: There are 10 types of people: those who understand binary, and those who don't.
