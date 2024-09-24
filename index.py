@@ -1929,3 +1929,4 @@ Commit #927 | Meme: Deleting code is better than writing code.
 Commit #928 | Meme: It's not a bug, it's an undocumented feature.
 Commit #929 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #930 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #931 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
