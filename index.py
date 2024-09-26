@@ -1487,3 +1487,4 @@ Commit #485 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #486 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #487 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #488 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #489 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
