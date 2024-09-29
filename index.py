@@ -1197,3 +1197,4 @@ Commit #195 | Meme: Real programmers count from 0.
 Commit #196 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #197 | Meme: There's no place like 127.0.0.1
 Commit #198 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #199 | Meme: Why do Java developers wear glasses? Because they don't C#.
