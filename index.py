@@ -2140,3 +2140,4 @@ Commit #1138 | Meme: Software and cathedrals are much the same – first we buil
 Commit #1139 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1140 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1141 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #1142 | Meme: Hide and seek champion since 1958: ';' in C/C++
