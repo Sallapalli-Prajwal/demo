@@ -1661,3 +1661,4 @@ Commit #659 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #660 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #661 | Meme: Deleting code is better than writing code.
 Commit #662 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #663 | Meme: To understand recursion, you must first understand recursion.
