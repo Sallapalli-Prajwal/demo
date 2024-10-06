@@ -1748,3 +1748,4 @@ Commit #746 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #747 | Meme: In case of fire: git commit, git push, leave building.
 Commit #748 | Meme: Deleting code is better than writing code.
 Commit #749 | Meme: Real programmers count from 0.
+Commit #750 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
