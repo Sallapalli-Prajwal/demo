@@ -1581,3 +1581,4 @@ Commit #579 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #580 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #581 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #582 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #583 | Meme: There's no place like 127.0.0.1
