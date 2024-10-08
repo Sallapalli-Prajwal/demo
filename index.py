@@ -1723,3 +1723,4 @@ Commit #721 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #722 | Meme: In case of fire: git commit, git push, leave building.
 Commit #723 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #724 | Meme: Real programmers count from 0.
+Commit #725 | Meme: Real programmers count from 0.
