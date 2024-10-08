@@ -1184,3 +1184,4 @@ Commit #182 | Meme: In case of fire: git commit, git push, leave building.
 Commit #183 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #184 | Meme: Real programmers count from 0.
 Commit #185 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #186 | Meme: In case of fire: git commit, git push, leave building.
