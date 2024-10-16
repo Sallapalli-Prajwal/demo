@@ -1616,3 +1616,4 @@ Commit #614 | Meme: In case of fire: git commit, git push, leave building.
 Commit #615 | Meme: It's not a bug, it's an undocumented feature.
 Commit #616 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #617 | Meme: Real programmers count from 0.
+Commit #618 | Meme: Deleting code is better than writing code.
