@@ -1246,3 +1246,4 @@ Commit #244 | Meme: It's not a bug, it's an undocumented feature.
 Commit #245 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #246 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #247 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #248 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
