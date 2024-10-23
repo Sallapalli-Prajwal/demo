@@ -1285,3 +1285,4 @@ Commit #283 | Meme: Deleting code is better than writing code.
 Commit #284 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #285 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #286 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #287 | Meme: Hide and seek champion since 1958: ';' in C/C++
