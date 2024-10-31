@@ -1110,3 +1110,4 @@ Commit #108 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #109 | Meme: To understand recursion, you must first understand recursion.
 Commit #110 | Meme: It's not a bug, it's an undocumented feature.
 Commit #111 | Meme: In case of fire: git commit, git push, leave building.
+Commit #112 | Meme: Hide and seek champion since 1958: ';' in C/C++
