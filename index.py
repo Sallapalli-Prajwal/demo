@@ -1231,3 +1231,4 @@ Commit #229 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #230 | Meme: It's not a bug, it's an undocumented feature.
 Commit #231 | Meme: To understand recursion, you must first understand recursion.
 Commit #232 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #233 | Meme: There are 10 types of people: those who understand binary, and those who don't.
