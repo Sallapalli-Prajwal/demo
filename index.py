@@ -1228,3 +1228,4 @@ Commit #226 | Meme: It's not a bug, it's an undocumented feature.
 Commit #227 | Meme: In case of fire: git commit, git push, leave building.
 Commit #228 | Meme: Real programmers count from 0.
 Commit #229 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #230 | Meme: It's not a bug, it's an undocumented feature.
