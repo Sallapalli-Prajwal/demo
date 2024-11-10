@@ -1202,3 +1202,4 @@ Commit #200 | Meme: Software and cathedrals are much the same – first we build
 Commit #201 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #202 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #203 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #204 | Meme: It's not a bug, it's an undocumented feature.
