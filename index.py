@@ -1000,3 +1000,4 @@ Commit #998 | Meme: In case of fire: git commit, git push, leave building.
 Commit #999 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1000 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #2 | Meme: Deleting code is better than writing code.
