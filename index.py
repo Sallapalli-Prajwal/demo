@@ -1747,3 +1747,4 @@ Commit #745 | Meme: In case of fire: git commit, git push, leave building.
 Commit #746 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #747 | Meme: In case of fire: git commit, git push, leave building.
 Commit #748 | Meme: Deleting code is better than writing code.
+Commit #749 | Meme: Real programmers count from 0.
