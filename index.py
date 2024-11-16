@@ -1127,3 +1127,4 @@ Commit #125 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #126 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #127 | Meme: To understand recursion, you must first understand recursion.
 Commit #128 | Meme: Real programmers count from 0.
+Commit #129 | Meme: Why do Java developers wear glasses? Because they don't C#.
