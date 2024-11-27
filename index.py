@@ -1158,3 +1158,4 @@ Commit #156 | Meme: There are 10 types of people: those who understand binary, a
 Commit #157 | Meme: There's no place like 127.0.0.1
 Commit #158 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #159 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #160 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
