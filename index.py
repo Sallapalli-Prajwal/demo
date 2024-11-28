@@ -1813,3 +1813,4 @@ Commit #811 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #812 | Meme: In case of fire: git commit, git push, leave building.
 Commit #813 | Meme: Deleting code is better than writing code.
 Commit #814 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #815 | Meme: In case of fire: git commit, git push, leave building.
