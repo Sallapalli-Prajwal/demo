@@ -1625,3 +1625,4 @@ Commit #623 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #624 | Meme: To understand recursion, you must first understand recursion.
 Commit #625 | Meme: It's not a bug, it's an undocumented feature.
 Commit #626 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #627 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
