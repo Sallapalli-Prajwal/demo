@@ -1510,3 +1510,4 @@ Commit #508 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #509 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #510 | Meme: It's not a bug, it's an undocumented feature.
 Commit #511 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #512 | Meme: Hide and seek champion since 1958: ';' in C/C++
