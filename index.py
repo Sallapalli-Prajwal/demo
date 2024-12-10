@@ -1337,3 +1337,4 @@ Commit #335 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #336 | Meme: To understand recursion, you must first understand recursion.
 Commit #337 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #338 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #339 | Meme: Real programmers count from 0.
