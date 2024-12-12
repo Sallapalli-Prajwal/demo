@@ -1043,3 +1043,4 @@ Commit #41 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #42 | Meme: To understand recursion, you must first understand recursion.
 Commit #43 | Meme: To understand recursion, you must first understand recursion.
 Commit #44 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #45 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
