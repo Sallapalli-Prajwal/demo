@@ -1422,3 +1422,4 @@ Commit #420 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #421 | Meme: Deleting code is better than writing code.
 Commit #422 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #423 | Meme: Real programmers count from 0.
+Commit #424 | Meme: To understand recursion, you must first understand recursion.
