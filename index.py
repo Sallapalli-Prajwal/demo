@@ -1365,3 +1365,4 @@ Commit #363 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #364 | Meme: It's not a bug, it's an undocumented feature.
 Commit #365 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #366 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #367 | Meme: Why do Java developers wear glasses? Because they don't C#.
