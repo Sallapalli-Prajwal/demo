@@ -2157,3 +2157,4 @@ Commit #1155 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #1156 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1157 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1158 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1159 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
