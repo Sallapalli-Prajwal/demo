@@ -2005,3 +2005,4 @@ Commit #1003 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1004 | Meme: There's no place like 127.0.0.1
 Commit #1005 | Meme: To understand recursion, you must first understand recursion.
 Commit #1006 | Meme: Deleting code is better than writing code.
+Commit #1007 | Meme: Why do Java developers wear glasses? Because they don't C#.
