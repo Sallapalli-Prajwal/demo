@@ -2855,3 +2855,4 @@ Commit #686 | Meme: Software and cathedrals are much the same – first we build
 Commit #687 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #688 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #689 | Meme: Real programmers count from 0.
+Commit #690 | Meme: Hide and seek champion since 1958: ';' in C/C++
