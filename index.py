@@ -2204,3 +2204,4 @@ Commit #35 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #36 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #37 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #38 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #39 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
