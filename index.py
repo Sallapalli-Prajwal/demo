@@ -2588,3 +2588,4 @@ Commit #419 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #420 | Meme: Real programmers count from 0.
 Commit #421 | Meme: Real programmers count from 0.
 Commit #422 | Meme: Deleting code is better than writing code.
+Commit #423 | Meme: There are 10 types of people: those who understand binary, and those who don't.
