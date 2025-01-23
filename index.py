@@ -2839,3 +2839,4 @@ Commit #670 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #671 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #672 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #673 | Meme: Deleting code is better than writing code.
+Commit #674 | Meme: To understand recursion, you must first understand recursion.
