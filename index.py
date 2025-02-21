@@ -2902,3 +2902,4 @@ Commit #733 | Meme: Software and cathedrals are much the same – first we build
 Commit #734 | Meme: It's not a bug, it's an undocumented feature.
 Commit #735 | Meme: Deleting code is better than writing code.
 Commit #736 | Meme: Deleting code is better than writing code.
+Commit #737 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
