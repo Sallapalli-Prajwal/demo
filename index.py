@@ -2799,3 +2799,4 @@ Commit #630 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #631 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #632 | Meme: Deleting code is better than writing code.
 Commit #633 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #634 | Meme: There are 10 types of people: those who understand binary, and those who don't.
