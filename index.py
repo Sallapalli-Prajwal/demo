@@ -2670,3 +2670,4 @@ Commit #501 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #502 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #503 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #504 | Meme: Real programmers count from 0.
+Commit #505 | Meme: Deleting code is better than writing code.
