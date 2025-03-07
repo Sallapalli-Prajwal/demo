@@ -3129,3 +3129,4 @@ Commit #960 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #961 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #962 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #963 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #964 | Meme: There are 10 types of people: those who understand binary, and those who don't.
