@@ -2736,3 +2736,4 @@ Commit #567 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #568 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #569 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #570 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #571 | Meme: Deleting code is better than writing code.
