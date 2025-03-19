@@ -2908,3 +2908,4 @@ Commit #739 | Meme: Real programmers count from 0.
 Commit #740 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #741 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #742 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #743 | Meme: It's not a bug, it's an undocumented feature.
