@@ -3026,3 +3026,4 @@ Commit #857 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #858 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #859 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #860 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #861 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
