@@ -2941,3 +2941,4 @@ Commit #772 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #773 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #774 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #775 | Meme: It's not a bug, it's an undocumented feature.
+Commit #776 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
