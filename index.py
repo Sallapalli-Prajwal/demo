@@ -2492,3 +2492,4 @@ Commit #323 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #324 | Meme: Real programmers count from 0.
 Commit #325 | Meme: Real programmers count from 0.
 Commit #326 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #327 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
