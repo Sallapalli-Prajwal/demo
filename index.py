@@ -3095,3 +3095,4 @@ Commit #926 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #927 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #928 | Meme: There's no place like 127.0.0.1
 Commit #929 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #930 | Meme: Deleting code is better than writing code.
