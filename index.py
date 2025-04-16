@@ -2569,3 +2569,4 @@ Commit #400 | Meme: It's not a bug, it's an undocumented feature.
 Commit #401 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #402 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #403 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #404 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
