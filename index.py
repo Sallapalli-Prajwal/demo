@@ -2936,3 +2936,4 @@ Commit #767 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #768 | Meme: It's not a bug, it's an undocumented feature.
 Commit #769 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #770 | Meme: It's not a bug, it's an undocumented feature.
+Commit #771 | Meme: There are 10 types of people: those who understand binary, and those who don't.
