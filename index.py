@@ -2172,3 +2172,4 @@ Commit #3 | Meme: Software and cathedrals are much the same – first we build t
 Commit #4 | Meme: Deleting code is better than writing code.
 Commit #5 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #6 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #7 | Meme: Deleting code is better than writing code.
