@@ -3145,3 +3145,4 @@ Commit #976 | Meme: There are 10 types of people: those who understand binary, a
 Commit #977 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #978 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #979 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #980 | Meme: To understand recursion, you must first understand recursion.
