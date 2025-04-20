@@ -2309,3 +2309,4 @@ Commit #140 | Meme: To understand recursion, you must first understand recursion
 Commit #141 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #142 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #143 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #144 | Meme: In case of fire: git commit, git push, leave building.
