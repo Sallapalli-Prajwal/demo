@@ -3102,3 +3102,4 @@ Commit #933 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #934 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #935 | Meme: In case of fire: git commit, git push, leave building.
 Commit #936 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #937 | Meme: Why do Java developers wear glasses? Because they don't C#.
