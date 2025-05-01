@@ -2367,3 +2367,4 @@ Commit #198 | Meme: Software and cathedrals are much the same – first we build
 Commit #199 | Meme: In case of fire: git commit, git push, leave building.
 Commit #200 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #201 | Meme: Real programmers count from 0.
+Commit #202 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
