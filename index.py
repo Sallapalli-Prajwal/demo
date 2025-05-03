@@ -2380,3 +2380,4 @@ Commit #211 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #212 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #213 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #214 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #215 | Meme: It's not a bug, it's an undocumented feature.
