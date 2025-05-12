@@ -2294,3 +2294,4 @@ Commit #125 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #126 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #127 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #128 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #129 | Meme: Hide and seek champion since 1958: ';' in C/C++
