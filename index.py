@@ -2539,3 +2539,4 @@ Commit #370 | Meme: In case of fire: git commit, git push, leave building.
 Commit #371 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #372 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #373 | Meme: There's no place like 127.0.0.1
+Commit #374 | Meme: Deleting code is better than writing code.
