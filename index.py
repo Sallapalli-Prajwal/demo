@@ -2344,3 +2344,4 @@ Commit #175 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #176 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #177 | Meme: Deleting code is better than writing code.
 Commit #178 | Meme: In case of fire: git commit, git push, leave building.
+Commit #179 | Meme: Why do Java developers wear glasses? Because they don't C#.
