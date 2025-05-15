@@ -2639,3 +2639,4 @@ Commit #470 | Meme: There's no place like 127.0.0.1
 Commit #471 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #472 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #473 | Meme: It's not a bug, it's an undocumented feature.
+Commit #474 | Meme: In case of fire: git commit, git push, leave building.
