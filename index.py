@@ -2566,3 +2566,4 @@ Commit #397 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #398 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #399 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #400 | Meme: It's not a bug, it's an undocumented feature.
+Commit #401 | Meme: There are 10 types of people: those who understand binary, and those who don't.
