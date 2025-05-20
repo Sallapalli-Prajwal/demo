@@ -3014,3 +3014,4 @@ Commit #845 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #846 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #847 | Meme: In case of fire: git commit, git push, leave building.
 Commit #848 | Meme: To understand recursion, you must first understand recursion.
+Commit #849 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
