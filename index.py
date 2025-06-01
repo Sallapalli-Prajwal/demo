@@ -2550,3 +2550,4 @@ Commit #381 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #382 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #383 | Meme: In case of fire: git commit, git push, leave building.
 Commit #384 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #385 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
