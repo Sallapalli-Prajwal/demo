@@ -2473,3 +2473,4 @@ Commit #304 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #305 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #306 | Meme: Deleting code is better than writing code.
 Commit #307 | Meme: There's no place like 127.0.0.1
+Commit #308 | Meme: Deleting code is better than writing code.
