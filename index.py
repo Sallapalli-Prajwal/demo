@@ -2364,3 +2364,4 @@ Commit #195 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #196 | Meme: It's not a bug, it's an undocumented feature.
 Commit #197 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #198 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #199 | Meme: In case of fire: git commit, git push, leave building.
