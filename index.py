@@ -2270,3 +2270,4 @@ Commit #101 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #102 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #103 | Meme: To understand recursion, you must first understand recursion.
 Commit #104 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #105 | Meme: In case of fire: git commit, git push, leave building.
