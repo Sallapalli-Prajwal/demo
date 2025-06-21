@@ -2842,3 +2842,4 @@ Commit #673 | Meme: Deleting code is better than writing code.
 Commit #674 | Meme: To understand recursion, you must first understand recursion.
 Commit #675 | Meme: To understand recursion, you must first understand recursion.
 Commit #676 | Meme: Deleting code is better than writing code.
+Commit #677 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
