@@ -2810,3 +2810,4 @@ Commit #641 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #642 | Meme: Deleting code is better than writing code.
 Commit #643 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #644 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #645 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
