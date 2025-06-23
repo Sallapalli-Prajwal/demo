@@ -3029,3 +3029,4 @@ Commit #860 | Meme: There are 10 types of people: those who understand binary, a
 Commit #861 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #862 | Meme: There's no place like 127.0.0.1
 Commit #863 | Meme: Deleting code is better than writing code.
+Commit #864 | Meme: Hide and seek champion since 1958: ';' in C/C++
