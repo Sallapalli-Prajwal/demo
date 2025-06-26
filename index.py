@@ -3055,3 +3055,4 @@ Commit #886 | Meme: Deleting code is better than writing code.
 Commit #887 | Meme: Real programmers count from 0.
 Commit #888 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #889 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #890 | Meme: Real programmers count from 0.
