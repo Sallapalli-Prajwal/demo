@@ -3071,3 +3071,4 @@ Commit #902 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #903 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #904 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #905 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #906 | Meme: In case of fire: git commit, git push, leave building.
