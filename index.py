@@ -3134,3 +3134,4 @@ Commit #965 | Meme: Real programmers count from 0.
 Commit #966 | Meme: In case of fire: git commit, git push, leave building.
 Commit #967 | Meme: Deleting code is better than writing code.
 Commit #968 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #969 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
