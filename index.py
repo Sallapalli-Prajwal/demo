@@ -2356,3 +2356,4 @@ Commit #187 | Meme: In case of fire: git commit, git push, leave building.
 Commit #188 | Meme: To understand recursion, you must first understand recursion.
 Commit #189 | Meme: There's no place like 127.0.0.1
 Commit #190 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #191 | Meme: To understand recursion, you must first understand recursion.
