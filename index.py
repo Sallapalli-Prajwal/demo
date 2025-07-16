@@ -2848,3 +2848,4 @@ Commit #679 | Meme: In case of fire: git commit, git push, leave building.
 Commit #680 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #681 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #682 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #683 | Meme: Works on my machine! ¯\_(ツ)_/¯
