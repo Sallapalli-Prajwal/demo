@@ -2756,3 +2756,4 @@ Commit #587 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #588 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #589 | Meme: It's not a bug, it's an undocumented feature.
 Commit #590 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #591 | Meme: Deleting code is better than writing code.
