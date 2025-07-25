@@ -2449,3 +2449,4 @@ Commit #280 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #281 | Meme: Deleting code is better than writing code.
 Commit #282 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #283 | Meme: To understand recursion, you must first understand recursion.
+Commit #284 | Meme: It's not a bug, it's an undocumented feature.
