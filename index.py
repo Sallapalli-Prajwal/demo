@@ -2676,3 +2676,4 @@ Commit #507 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #508 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #509 | Meme: In case of fire: git commit, git push, leave building.
 Commit #510 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #511 | Meme: Why do Java developers wear glasses? Because they don't C#.
