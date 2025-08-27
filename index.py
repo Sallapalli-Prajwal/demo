@@ -3011,3 +3011,4 @@ Commit #842 | Meme: Deleting code is better than writing code.
 Commit #843 | Meme: Real programmers count from 0.
 Commit #844 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #845 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #846 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
