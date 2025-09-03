@@ -2571,3 +2571,4 @@ Commit #402 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #403 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #404 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #405 | Meme: It's not a bug, it's an undocumented feature.
+Commit #406 | Meme: To understand recursion, you must first understand recursion.
