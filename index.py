@@ -2263,3 +2263,4 @@ Commit #94 | Meme: It's not a bug, it's an undocumented feature.
 Commit #95 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #96 | Meme: Real programmers count from 0.
 Commit #97 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #98 | Meme: In case of fire: git commit, git push, leave building.
