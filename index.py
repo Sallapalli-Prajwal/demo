@@ -3149,3 +3149,4 @@ Commit #980 | Meme: To understand recursion, you must first understand recursion
 Commit #981 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #982 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #983 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #984 | Meme: In case of fire: git commit, git push, leave building.
