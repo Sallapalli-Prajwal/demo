@@ -2316,3 +2316,4 @@ Commit #147 | Meme: Real programmers count from 0.
 Commit #148 | Meme: In case of fire: git commit, git push, leave building.
 Commit #149 | Meme: Deleting code is better than writing code.
 Commit #150 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #151 | Meme: Hide and seek champion since 1958: ';' in C/C++
