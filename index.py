@@ -2264,3 +2264,4 @@ Commit #95 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #96 | Meme: Real programmers count from 0.
 Commit #97 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #98 | Meme: In case of fire: git commit, git push, leave building.
+Commit #99 | Meme: Hide and seek champion since 1958: ';' in C/C++
