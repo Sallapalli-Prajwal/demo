@@ -2657,3 +2657,4 @@ Commit #488 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #489 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #490 | Meme: To understand recursion, you must first understand recursion.
 Commit #491 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #492 | Meme: Deleting code is better than writing code.
