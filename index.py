@@ -2723,3 +2723,4 @@ Commit #554 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #555 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #556 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #557 | Meme: In case of fire: git commit, git push, leave building.
+Commit #558 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
