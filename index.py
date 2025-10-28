@@ -2363,3 +2363,4 @@ Commit #194 | Meme: Deleting code is better than writing code.
 Commit #195 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #196 | Meme: It's not a bug, it's an undocumented feature.
 Commit #197 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #198 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
