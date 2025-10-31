@@ -2194,3 +2194,4 @@ Commit #25 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #26 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #27 | Meme: In case of fire: git commit, git push, leave building.
 Commit #28 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #29 | Meme: To understand recursion, you must first understand recursion.
