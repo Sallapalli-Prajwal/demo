@@ -3131,3 +3131,4 @@ Commit #962 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #963 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #964 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #965 | Meme: Real programmers count from 0.
+Commit #966 | Meme: In case of fire: git commit, git push, leave building.
