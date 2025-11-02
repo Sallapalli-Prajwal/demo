@@ -2990,3 +2990,4 @@ Commit #821 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #822 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #823 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #824 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #825 | Meme: It's not a bug, it's an undocumented feature.
