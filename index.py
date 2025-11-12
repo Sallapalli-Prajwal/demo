@@ -2986,3 +2986,4 @@ Commit #817 | Meme: There's no place like 127.0.0.1
 Commit #818 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #819 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #820 | Meme: There's no place like 127.0.0.1
+Commit #821 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
