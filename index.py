@@ -2230,3 +2230,4 @@ Commit #61 | Meme: There's no place like 127.0.0.1
 Commit #62 | Meme: To understand recursion, you must first understand recursion.
 Commit #63 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #64 | Meme: In case of fire: git commit, git push, leave building.
+Commit #65 | Meme: There are 10 types of people: those who understand binary, and those who don't.
