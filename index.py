@@ -2920,3 +2920,4 @@ Commit #751 | Meme: Software and cathedrals are much the same – first we build
 Commit #752 | Meme: It's not a bug, it's an undocumented feature.
 Commit #753 | Meme: Deleting code is better than writing code.
 Commit #754 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #755 | Meme: Hide and seek champion since 1958: ';' in C/C++
