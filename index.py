@@ -2251,3 +2251,4 @@ Commit #82 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #83 | Meme: It's not a bug, it's an undocumented feature.
 Commit #84 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #85 | Meme: Deleting code is better than writing code.
+Commit #86 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
