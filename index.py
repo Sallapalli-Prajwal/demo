@@ -2562,3 +2562,4 @@ Commit #393 | Meme: Deleting code is better than writing code.
 Commit #394 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #395 | Meme: There's no place like 127.0.0.1
 Commit #396 | Meme: Deleting code is better than writing code.
+Commit #397 | Meme: Why do Java developers wear glasses? Because they don't C#.
