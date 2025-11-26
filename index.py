@@ -3114,3 +3114,4 @@ Commit #945 | Meme: There's no place like 127.0.0.1
 Commit #946 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #947 | Meme: Deleting code is better than writing code.
 Commit #948 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #949 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
