@@ -3003,3 +3003,4 @@ Commit #834 | Meme: There are 10 types of people: those who understand binary, a
 Commit #835 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #836 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #837 | Meme: Deleting code is better than writing code.
+Commit #838 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
