@@ -2212,3 +2212,4 @@ Commit #43 | Meme: Software and cathedrals are much the same – first we build 
 Commit #44 | Meme: It's not a bug, it's an undocumented feature.
 Commit #45 | Meme: In case of fire: git commit, git push, leave building.
 Commit #46 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #47 | Meme: Hide and seek champion since 1958: ';' in C/C++
