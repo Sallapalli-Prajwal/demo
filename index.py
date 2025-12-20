@@ -2913,3 +2913,4 @@ Commit #744 | Meme: There's no place like 127.0.0.1
 Commit #745 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #746 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #747 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #748 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
