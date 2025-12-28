@@ -2851,3 +2851,4 @@ Commit #682 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #683 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #684 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #685 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #686 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
