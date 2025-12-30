@@ -2649,3 +2649,4 @@ Commit #480 | Meme: It's not a bug, it's an undocumented feature.
 Commit #481 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #482 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #483 | Meme: To understand recursion, you must first understand recursion.
+Commit #484 | Meme: Hide and seek champion since 1958: ';' in C/C++
