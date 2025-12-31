@@ -2573,3 +2573,4 @@ Commit #404 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #405 | Meme: It's not a bug, it's an undocumented feature.
 Commit #406 | Meme: To understand recursion, you must first understand recursion.
 Commit #407 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #408 | Meme: Why do Java developers wear glasses? Because they don't C#.
