@@ -3431,3 +3431,4 @@ Commit #274 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #275 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #276 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #277 | Meme: Deleting code is better than writing code.
+Commit #278 | Meme: There are 10 types of people: those who understand binary, and those who don't.
