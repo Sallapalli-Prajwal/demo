@@ -3204,3 +3204,4 @@ Commit #47 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #48 | Meme: It's not a bug, it's an undocumented feature.
 Commit #49 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #50 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #51 | Meme: Hide and seek champion since 1958: ';' in C/C++
