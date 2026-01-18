@@ -4010,3 +4010,4 @@ Commit #853 | Meme: To understand recursion, you must first understand recursion
 Commit #854 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #855 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #856 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #857 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
