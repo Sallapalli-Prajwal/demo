@@ -3644,3 +3644,4 @@ Commit #487 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #488 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #489 | Meme: There's no place like 127.0.0.1
 Commit #490 | Meme: There's no place like 127.0.0.1
+Commit #491 | Meme: Why do Java developers wear glasses? Because they don't C#.
