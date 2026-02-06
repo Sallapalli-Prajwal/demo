@@ -3896,3 +3896,4 @@ Commit #739 | Meme: There are 10 types of people: those who understand binary, a
 Commit #740 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #741 | Meme: In case of fire: git commit, git push, leave building.
 Commit #742 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #743 | Meme: To understand recursion, you must first understand recursion.
