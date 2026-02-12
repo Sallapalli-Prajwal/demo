@@ -3669,3 +3669,4 @@ Commit #512 | Meme: Deleting code is better than writing code.
 Commit #513 | Meme: Deleting code is better than writing code.
 Commit #514 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #515 | Meme: Deleting code is better than writing code.
+Commit #516 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
