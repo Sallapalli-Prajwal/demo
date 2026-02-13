@@ -3227,3 +3227,4 @@ Commit #70 | Meme: Real programmers count from 0.
 Commit #71 | Meme: To understand recursion, you must first understand recursion.
 Commit #72 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #73 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #74 | Meme: Why do Java developers wear glasses? Because they don't C#.
