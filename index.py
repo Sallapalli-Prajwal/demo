@@ -3686,3 +3686,4 @@ Commit #529 | Meme: To understand recursion, you must first understand recursion
 Commit #530 | Meme: Deleting code is better than writing code.
 Commit #531 | Meme: Deleting code is better than writing code.
 Commit #532 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #533 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
