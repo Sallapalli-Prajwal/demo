@@ -3635,3 +3635,4 @@ Commit #478 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #479 | Meme: There's no place like 127.0.0.1
 Commit #480 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #481 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #482 | Meme: Real programmers count from 0.
