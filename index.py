@@ -3219,3 +3219,4 @@ Commit #62 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #63 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #64 | Meme: Deleting code is better than writing code.
 Commit #65 | Meme: To understand recursion, you must first understand recursion.
+Commit #66 | Meme: It's not a bug, it's an undocumented feature.
