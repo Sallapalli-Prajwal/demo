@@ -3589,3 +3589,4 @@ Commit #432 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #433 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #434 | Meme: There's no place like 127.0.0.1
 Commit #435 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #436 | Meme: There are 10 types of people: those who understand binary, and those who don't.
