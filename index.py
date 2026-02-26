@@ -3491,3 +3491,4 @@ Commit #334 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #335 | Meme: In case of fire: git commit, git push, leave building.
 Commit #336 | Meme: It's not a bug, it's an undocumented feature.
 Commit #337 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #338 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
