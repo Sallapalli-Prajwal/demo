@@ -3438,3 +3438,4 @@ Commit #281 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #282 | Meme: Real programmers count from 0.
 Commit #283 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #284 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #285 | Meme: It's not a bug, it's an undocumented feature.
