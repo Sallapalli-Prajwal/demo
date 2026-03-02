@@ -3217,3 +3217,4 @@ Commit #60 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #61 | Meme: Deleting code is better than writing code.
 Commit #62 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #63 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #64 | Meme: Deleting code is better than writing code.
