@@ -3485,3 +3485,4 @@ Commit #328 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #329 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #330 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #331 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #332 | Meme: There are 10 types of people: those who understand binary, and those who don't.
