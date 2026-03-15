@@ -3453,3 +3453,4 @@ Commit #296 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #297 | Meme: To understand recursion, you must first understand recursion.
 Commit #298 | Meme: Real programmers count from 0.
 Commit #299 | Meme: To understand recursion, you must first understand recursion.
+Commit #300 | Meme: Deleting code is better than writing code.
