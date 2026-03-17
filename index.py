@@ -3322,3 +3322,4 @@ Commit #165 | Meme: There's no place like 127.0.0.1
 Commit #166 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #167 | Meme: Real programmers count from 0.
 Commit #168 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #169 | Meme: There are 10 types of people: those who understand binary, and those who don't.
