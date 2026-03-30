@@ -3498,3 +3498,4 @@ Commit #341 | Meme: Real programmers count from 0.
 Commit #342 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #343 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #344 | Meme: There's no place like 127.0.0.1
+Commit #345 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
