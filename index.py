@@ -3768,3 +3768,4 @@ Commit #611 | Meme: Real programmers count from 0.
 Commit #612 | Meme: Real programmers count from 0.
 Commit #613 | Meme: Deleting code is better than writing code.
 Commit #614 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #615 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
