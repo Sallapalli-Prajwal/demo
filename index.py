@@ -3760,3 +3760,4 @@ Commit #603 | Meme: Real programmers count from 0.
 Commit #604 | Meme: There's no place like 127.0.0.1
 Commit #605 | Meme: Real programmers count from 0.
 Commit #606 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #607 | Meme: There are 10 types of people: those who understand binary, and those who don't.
