@@ -3237,3 +3237,4 @@ Commit #80 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #81 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #82 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #83 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #84 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
