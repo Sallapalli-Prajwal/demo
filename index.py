@@ -3259,3 +3259,4 @@ Commit #102 | Meme: Real programmers count from 0.
 Commit #103 | Meme: In case of fire: git commit, git push, leave building.
 Commit #104 | Meme: It's not a bug, it's an undocumented feature.
 Commit #105 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #106 | Meme: Hide and seek champion since 1958: ';' in C/C++
