@@ -3820,3 +3820,4 @@ Commit #663 | Meme: Software and cathedrals are much the same – first we build
 Commit #664 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #665 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #666 | Meme: In case of fire: git commit, git push, leave building.
+Commit #667 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
