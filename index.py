@@ -3665,3 +3665,4 @@ Commit #508 | Meme: To understand recursion, you must first understand recursion
 Commit #509 | Meme: Real programmers count from 0.
 Commit #510 | Meme: Deleting code is better than writing code.
 Commit #511 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #512 | Meme: Deleting code is better than writing code.
