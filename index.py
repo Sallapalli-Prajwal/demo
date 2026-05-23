@@ -3870,3 +3870,4 @@ Commit #713 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #714 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #715 | Meme: It's not a bug, it's an undocumented feature.
 Commit #716 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #717 | Meme: In case of fire: git commit, git push, leave building.
