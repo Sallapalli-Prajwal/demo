@@ -3268,3 +3268,4 @@ Commit #111 | Meme: Software and cathedrals are much the same – first we build
 Commit #112 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #113 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #114 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #115 | Meme: There are 10 types of people: those who understand binary, and those who don't.
