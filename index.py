@@ -3154,3 +3154,4 @@ Commit #985 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #986 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #987 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #988 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #1 | Meme: There's no place like 127.0.0.1
