@@ -4014,3 +4014,4 @@ Commit #857 | Meme: Software and cathedrals are much the same – first we build
 Commit #858 | Meme: It's not a bug, it's an undocumented feature.
 Commit #859 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #860 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #861 | Meme: There are 10 types of people: those who understand binary, and those who don't.
