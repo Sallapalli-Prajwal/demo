@@ -3988,3 +3988,4 @@ Commit #831 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #832 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #833 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #834 | Meme: Real programmers count from 0.
+Commit #835 | Meme: Hide and seek champion since 1958: ';' in C/C++
