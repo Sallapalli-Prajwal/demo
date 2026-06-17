@@ -3447,3 +3447,4 @@ Commit #290 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #291 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #292 | Meme: It's not a bug, it's an undocumented feature.
 Commit #293 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #294 | Meme: Deleting code is better than writing code.
