@@ -3841,3 +3841,4 @@ Commit #684 | Meme: In case of fire: git commit, git push, leave building.
 Commit #685 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #686 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #687 | Meme: It's not a bug, it's an undocumented feature.
+Commit #688 | Meme: There's no place like 127.0.0.1
