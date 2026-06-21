@@ -3177,3 +3177,4 @@ Commit #20 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #21 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #22 | Meme: Real programmers count from 0.
 Commit #23 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #24 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
