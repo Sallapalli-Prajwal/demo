@@ -3480,3 +3480,4 @@ Commit #323 | Meme: In case of fire: git commit, git push, leave building.
 Commit #324 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #325 | Meme: Real programmers count from 0.
 Commit #326 | Meme: It's not a bug, it's an undocumented feature.
+Commit #327 | Meme: Why do Java developers wear glasses? Because they don't C#.
