@@ -4001,3 +4001,4 @@ Commit #844 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #845 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #846 | Meme: Real programmers count from 0.
 Commit #847 | Meme: Deleting code is better than writing code.
+Commit #848 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
