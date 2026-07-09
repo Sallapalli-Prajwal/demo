@@ -3910,3 +3910,4 @@ Commit #753 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #754 | Meme: In case of fire: git commit, git push, leave building.
 Commit #755 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #756 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #757 | Meme: Real programmers count from 0.
