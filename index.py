@@ -3704,3 +3704,4 @@ Commit #547 | Meme: There are 10 types of people: those who understand binary, a
 Commit #548 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #549 | Meme: To understand recursion, you must first understand recursion.
 Commit #550 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #551 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
