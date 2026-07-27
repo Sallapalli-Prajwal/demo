@@ -3943,3 +3943,4 @@ Commit #786 | Meme: Software and cathedrals are much the same – first we build
 Commit #787 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #788 | Meme: It's not a bug, it's an undocumented feature.
 Commit #789 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #790 | Meme: Hide and seek champion since 1958: ';' in C/C++
