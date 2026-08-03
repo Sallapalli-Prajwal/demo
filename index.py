@@ -3310,3 +3310,4 @@ Commit #153 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #154 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #155 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #156 | Meme: Real programmers count from 0.
+Commit #157 | Meme: To understand recursion, you must first understand recursion.
