@@ -3927,3 +3927,4 @@ Commit #770 | Meme: There are 10 types of people: those who understand binary, a
 Commit #771 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #772 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #773 | Meme: Deleting code is better than writing code.
+Commit #774 | Meme: There's no place like 127.0.0.1
