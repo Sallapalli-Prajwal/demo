@@ -3341,3 +3341,4 @@ Commit #184 | Meme: Real programmers count from 0.
 Commit #185 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #186 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #187 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #188 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
