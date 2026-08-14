@@ -3502,3 +3502,4 @@ Commit #345 | Meme: Software and cathedrals are much the same – first we build
 Commit #346 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #347 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #348 | Meme: To understand recursion, you must first understand recursion.
+Commit #349 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
