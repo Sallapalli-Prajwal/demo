@@ -3592,3 +3592,4 @@ Commit #435 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #436 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #437 | Meme: To understand recursion, you must first understand recursion.
 Commit #438 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #439 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
