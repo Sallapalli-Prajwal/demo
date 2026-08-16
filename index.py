@@ -3162,3 +3162,4 @@ Commit #5 | Meme: There's no place like 127.0.0.1
 Commit #6 | Meme: Real programmers count from 0.
 Commit #7 | Meme: There's no place like 127.0.0.1
 Commit #8 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #9 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
