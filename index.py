@@ -3774,3 +3774,4 @@ Commit #617 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #618 | Meme: There's no place like 127.0.0.1
 Commit #619 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #620 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #621 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
