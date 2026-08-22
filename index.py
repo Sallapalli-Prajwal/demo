@@ -3641,3 +3641,4 @@ Commit #484 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #485 | Meme: Real programmers count from 0.
 Commit #486 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #487 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #488 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
