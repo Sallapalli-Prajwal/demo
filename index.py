@@ -3810,3 +3810,4 @@ Commit #653 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #654 | Meme: Deleting code is better than writing code.
 Commit #655 | Meme: Deleting code is better than writing code.
 Commit #656 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #657 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
