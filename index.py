@@ -3257,3 +3257,4 @@ Commit #100 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #101 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #102 | Meme: Real programmers count from 0.
 Commit #103 | Meme: In case of fire: git commit, git push, leave building.
+Commit #104 | Meme: It's not a bug, it's an undocumented feature.
