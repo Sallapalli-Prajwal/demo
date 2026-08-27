@@ -3815,3 +3815,4 @@ Commit #658 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #659 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #660 | Meme: It's not a bug, it's an undocumented feature.
 Commit #661 | Meme: To understand recursion, you must first understand recursion.
+Commit #662 | Meme: Why do Java developers wear glasses? Because they don't C#.
