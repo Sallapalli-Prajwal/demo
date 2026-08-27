@@ -3759,3 +3759,4 @@ Commit #602 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #603 | Meme: Real programmers count from 0.
 Commit #604 | Meme: There's no place like 127.0.0.1
 Commit #605 | Meme: Real programmers count from 0.
+Commit #606 | Meme: Why do Java developers wear glasses? Because they don't C#.
