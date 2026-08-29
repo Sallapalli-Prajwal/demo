@@ -3843,3 +3843,4 @@ Commit #686 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #687 | Meme: It's not a bug, it's an undocumented feature.
 Commit #688 | Meme: There's no place like 127.0.0.1
 Commit #689 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #690 | Meme: In case of fire: git commit, git push, leave building.
