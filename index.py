@@ -3855,3 +3855,4 @@ Commit #698 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #699 | Meme: In case of fire: git commit, git push, leave building.
 Commit #700 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #701 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #702 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
