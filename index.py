@@ -3211,3 +3211,4 @@ Commit #54 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #55 | Meme: In case of fire: git commit, git push, leave building.
 Commit #56 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #57 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #58 | Meme: In case of fire: git commit, git push, leave building.
