@@ -3959,3 +3959,4 @@ Commit #802 | Meme: To understand recursion, you must first understand recursion
 Commit #803 | Meme: In case of fire: git commit, git push, leave building.
 Commit #804 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #805 | Meme: To understand recursion, you must first understand recursion.
+Commit #806 | Meme: Hide and seek champion since 1958: ';' in C/C++
