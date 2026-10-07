@@ -3305,3 +3305,4 @@ Commit #148 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #149 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #150 | Meme: To understand recursion, you must first understand recursion.
 Commit #151 | Meme: It's not a bug, it's an undocumented feature.
+Commit #152 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
