@@ -3801,3 +3801,4 @@ Commit #644 | Meme: Software and cathedrals are much the same – first we build
 Commit #645 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #646 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #647 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #648 | Meme: Real programmers count from 0.
