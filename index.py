@@ -4021,3 +4021,4 @@ Commit #864 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #865 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #866 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #867 | Meme: Real programmers count from 0.
+Commit #868 | Meme: Deleting code is better than writing code.
