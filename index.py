@@ -3839,3 +3839,4 @@ Commit #682 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #683 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #684 | Meme: In case of fire: git commit, git push, leave building.
 Commit #685 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #686 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
