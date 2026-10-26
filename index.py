@@ -3198,3 +3198,4 @@ Commit #41 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #42 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #43 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #44 | Meme: In case of fire: git commit, git push, leave building.
+Commit #45 | Meme: Deleting code is better than writing code.
